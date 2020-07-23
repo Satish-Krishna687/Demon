@@ -31,6 +31,7 @@ class Demo{
 	}
 	void nonstaticDisp(){
 		System.out.println("non staic method executed");
+		System.out.println("git changes");
 	}
 }
 class BlocksInJava{
